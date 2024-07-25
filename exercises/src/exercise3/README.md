@@ -1,0 +1,3 @@
+Crie um programa em Java que implemente a função uniao. Essa função Crie uma função  recebe como parâmetros dois arrays de inteiros e retorna um novo array contendo a  união de v1 e v2. Por exemplo, se v1 = {11, 13, 45, 7} e v2 = {24, 4, 16, 81, 10, 12}, v3 irá  conter {11, 13, 45, 7, 24, 4, 16, 81, 10, 12}.  
+
+Em seguida, crie a função principal do programa para chamar a função uniaopassando  dois arrays informados pelo usuário (ou declarados estaticamente). Em seguida, o  programa deve exibir na tela os elementos do array resultante. 
